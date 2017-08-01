@@ -152,3 +152,7 @@ fabric.properties
 
 #.idea Folder
 .idea/
+notMNIST_small.tar
+notMNIST_large.tar
+notMNIST_small/
+notMNIST_large/
